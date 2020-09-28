@@ -11,7 +11,7 @@ public class PinCode {
 	
 	public static void main(String[] args) {
 		PinCode pinPattern=new PinCode();
-		System.out.println("Validate pin A400088: "+pinPattern.validatePin("A400088"));
+		System.out.println("Validate pin 400088B: "+pinPattern.validatePin("400088B"));
 	}
 
 }
